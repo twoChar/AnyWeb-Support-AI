@@ -1,0 +1,22 @@
+{
+    "chatbotTitle": "चैटबॉट",
+    "greeting": "नमस्ते! मैं आपकी कैसे मदद कर सकता हूँ?",
+    "typing": "टाइप कर रहा है...",
+    "error": "कुछ गलत हो गया। कृपया पुनः प्रयास करें।",
+    "errorSubmittingFeedback": "प्रतिक्रिया सबमिट करने में विफल। कृपया पुनः प्रयास करें।",
+    "thankYouForFeedback": "आपकी प्रतिक्रिया के लिए धन्यवाद!",
+    "typeMessage": "संदेश टाइप करें",
+    "Enter page URL": "पेज URL दर्ज करें",
+    "Give Feedback": "फीडबैक दें",
+    "Please leave feedback!": "कृपया अपना फीडबैक छोड़ें!",
+    "Leave your feedback here!": "अपना फीडबैक यहां छोड़ें!",
+    "Submit": "सबमिट करें",
+    "Cancel": "रद्द करें",
+    "Thank you for your feedback!": "आपकी प्रतिक्रिया के लिए धन्यवाद!",
+    "There is an error submitting your feedback!": "आपका फीडबैक सबमिट करने में त्रुटि है!",
+    "Home Page": "होम पेज",
+    "Please rate the chat!": "कृपया चैट की रेटिंग दें!",
+    "submit": "सबमिट करें",
+    "cancel": "रद्द करें"
+}
+  

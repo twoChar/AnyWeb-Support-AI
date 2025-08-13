@@ -1,0 +1,16 @@
+{
+    "chatbotTitle": "AnyWebSupport AI",
+    "greeting": "Hi! I'm AnyWebSupport AI. Please add the link to the website you would like me to assist you with. Ask a question, and I will do my best to provide you with accurate answers based on the website data",
+    "error": "I'm sorry, but I encountered an error. Please try again later.",
+    "typing": "AnyWebSupport AI is Web Scraping...",
+    "typeMessage": "Type your message",
+    "Enter page URL": "Enter page URL",
+    "Give Feedback": "Give Feedback",
+    "Please leave feedback!": "Please leave feedback!",
+    "Leave your feedback here!": "Leave your feedback here!",
+    "Submit": "Submit",
+    "Cancel": "Cancel",
+    "Thank you for your feedback!": "Thank you for your feedback!",
+    "There is an error submitting your feedback!": "There is an error submitting your feedback!",
+    "Home Page": "Home Page"
+}

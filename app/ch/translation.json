@@ -1,0 +1,22 @@
+{
+    "chatbotTitle": "聊天机器人",
+    "greeting": "您好！有什么我可以帮助您的吗？",
+    "typing": "正在输入...",
+    "error": "出现错误，请重试。",
+    "errorSubmittingFeedback": "反馈提交失败，请重试。",
+    "thankYouForFeedback": "感谢您的反馈！",
+    "typeMessage": "输入消息",
+    "Enter page URL": "输入页面URL",
+    "Give Feedback": "提供反馈",
+    "Please leave feedback!": "请留下您的反馈！",
+    "Leave your feedback here!": "在此留下您的反馈！",
+    "Submit": "提交",
+    "Cancel": "取消",
+    "Thank you for your feedback!": "感谢您的反馈！",
+    "There is an error submitting your feedback!": "提交反馈时出现错误！",
+    "Home Page": "主页",
+    "Please rate the chat!": "请对聊天进行评分！",
+    "submit": "提交",
+    "cancel": "取消"
+}
+  

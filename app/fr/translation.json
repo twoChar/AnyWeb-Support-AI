@@ -1,0 +1,22 @@
+{
+    "chatbotTitle": "Chatbot",
+    "greeting": "Bonjour ! Comment puis-je vous aider ?",
+    "typing": "En train de taper...",
+    "error": "Une erreur est survenue. Veuillez réessayer.",
+    "errorSubmittingFeedback": "Échec de la soumission des commentaires. Veuillez réessayer.",
+    "thankYouForFeedback": "Merci pour vos retours !",
+    "typeMessage": "Saisir un message",
+    "Enter page URL": "Entrez l'URL de la page",
+    "Give Feedback": "Donner un avis",
+    "Please leave feedback!": "Veuillez laisser vos commentaires !",
+    "Leave your feedback here!": "Laissez vos commentaires ici !",
+    "Submit": "Soumettre",
+    "Cancel": "Annuler",
+    "Thank you for your feedback!": "Merci pour vos commentaires !",
+    "There is an error submitting your feedback!": "Il y a une erreur lors de la soumission de vos commentaires !",
+    "Home Page": "Page d'Accueil",
+    "Please rate the chat!": "Veuillez évaluer le chat !",
+    "submit": "Soumettre",
+    "cancel": "Annuler"
+}
+  

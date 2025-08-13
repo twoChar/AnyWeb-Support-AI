@@ -1,0 +1,21 @@
+{
+    "chatbotTitle": "Chatbot de Soporte de IA",
+    "greeting": "¡Hola! Soy el asistente de soporte. ¿Cómo puedo ayudarte hoy?",
+    "error": "Lo siento, pero encontré un error. Por favor, inténtalo de nuevo más tarde.",
+    "typing": "El soporte de IA está escribiendo...",
+    "typeMessage": "Escribe tu mensaje",
+    "Enter page URL": "Ingresa la URL de la página",
+    "Give Feedback": "Dar Comentarios",
+    "Please leave feedback!": "¡Por favor deja tus comentarios!",
+    "Leave your feedback here!": "¡Deja tus comentarios aquí!",
+    "Submit": "Entregar",
+    "Cancel": "Cancelar",
+    "Thank you for your feedback!": "¡Gracias por tus comentarios!",
+    "There is an error submitting your feedback!": "¡Hay un error al enviar tus comentarios!",
+    "Home Page": "Página Principal",
+    "errorSubmittingFeedback": "No se pudieron enviar comentarios. Por favor inténtalo de nuevo.",
+    "thankYouForFeedback": "¡Gracias por tus comentarios!",
+    "Please rate the chat!": "¡Por favor califica el chat!",
+    "submit": "Entregar",
+    "cancel": "Cancelar"
+}
