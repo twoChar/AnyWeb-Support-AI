@@ -112,28 +112,7 @@ A Next.js application that provides AI-powered customer service by scraping webs
 3. **Build errors**
    - Clear `node_modules` and reinstall: `rm -rf node_modules && npm install`
 
-### Development
 
-- **Lint**: `npm run lint`
-- **Build**: `npm run build`
-- **Start**: `npm start`
 
-## Contributing
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
 
-## License
-
-This project is licensed under the MIT License.
-
-## Author
-
-Created by Daivya Shah, a student at New York University.
-Visit [https://daivyashah.com](https://daivyashah.com) for more information.
-# AnyWeb-Support-AI
-# AnyWeb-Support-AI
-# AnyWeb-Support-AI
-# AnyWeb-Support-AI
