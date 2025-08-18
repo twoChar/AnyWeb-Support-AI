@@ -14,7 +14,7 @@ export default function HomePage() {
   };
 
   const handleContactMe = () => {
-    window.open('https://daivyashah.com/', '_blank');
+    window.open('https://twochar.github.io/Tushar/', '_blank');
   };
 
   const primaryColor = '#00BFA5';

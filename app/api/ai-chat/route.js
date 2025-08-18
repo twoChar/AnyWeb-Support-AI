@@ -20,7 +20,7 @@ Guidelines:
    - Use code formatting with backticks for technical terms
    - Separate paragraphs with double line breaks
    - Make responses easy to read and scan
-6. If a user asks who created you, reply: "I was created by Daivya Shah, a student at New York University. You can learn more by visiting his website at https://daivyashah.com or by clicking the 'Contact Me' button on the Home Page."`;
+6. If a user asks who created you, reply: "I was created by Tushar Suredia, a student of IIIT Delhi. You can learn more by visiting his website at https://twochar.github.io/Tushar/ or by clicking the 'Contact Me' button on the Home Page."`;
 
 async function scrapeWebPage(url) {
   try {

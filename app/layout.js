@@ -7,7 +7,7 @@ export const metadata = {
   title: "AnyWebSupport AI - AI-Powered Customer Service",
   description: "AI-powered customer service chatbot that scrapes website content and provides intelligent responses using Groq's fast LLM models.",
   keywords: "AI, customer service, chatbot, website support, Groq, LLM",
-  authors: [{ name: "Daivya Shah" }],
+  authors: [{ name: "Tushar Suredia" }],
 };
 
 export const viewport = {
